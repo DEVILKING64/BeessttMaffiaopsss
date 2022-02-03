@@ -1,7 +1,7 @@
 {
-  "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
-  "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
-  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+  "name": "𝚃𝙷𝙴 Devil Bot",
+  "description": "The DevilBot made by @OwNeR_Hu_BeTe special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
+  "logo": "https://te.legra.ph/file/e710aca44cfcfe4f51dd4.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -10,8 +10,8 @@
     "productivity"
   ],
   "repository": "https://github.com/DEVILKING64/MafiaBotIsOP/",
-  "website": "https://github.com/H1M4N5HU0P/MafiaBotIsOP/",
-  "success_url": "https://t.me/MafiaBot_Support",
+  "website": "https://github.com/OwNeR_Hu_BeTe/MafiaBotIsOP/",
+  "success_url": "https://t.me/baaP_ka_AddA",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,17 +24,17 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "value": "@baaP_ka_AddA",
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in MafiaBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in DevilBot. Else Fill ON.",
       "value": "",
       "required": false
     },    
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "value": "😈Devil IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
@@ -44,7 +44,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "😈LEGEND'S SAY'S TO DEVIL bot😈",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -80,7 +80,7 @@
       "value": "-1001174481876"
     },
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "description": "Get this value by running https://repl.it/@OwNeR_Hu_BeTe/DevilBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
