@@ -1,16 +1,16 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/H1M4N5HU0P/MAFIA-BOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/deepaiims/BeessttMaffiaopsss)
-[![HitCount](http://hits.dwyl.com/MafiaBotOP/MafiaBotOP.svg)](http://hits.dwyl.com/MafiaBotOP/MafiaBotOP)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/H1M4N5HU0P)
+[![HitCount](http://hits.dwyl.com/DevilBotOP/DevilBotOP.svg)](http://hits.dwyl.com/MafiaBotOP/MafiaBotOP)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/OwNeR_Hu_BeTe)
 
 
 
-# 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
+# 𝚃𝙷𝙴 DevilBot
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by @OwNeR_Hu_BeTe. Supported by respective hellbot owner @OwNeR_Hu_BeTe. Join for update related info channel and group :- https://t.me/baaP_ka_AddA THANKS FOR VISITING OUR REPO💖
-[![MAFIABOT LOGO](https://te.legra.ph/file/e710aca44cfcfe4f51dd4.jpg)](https://t.me/baaP_ka_AddA)
+DevilBot made by @OwNeR_Hu_BeTe. Supported by respective hellbot owner @OwNeR_Hu_BeTe. Join for update related info channel and group :- https://t.me/baaP_ka_AddA THANKS FOR VISITING OUR REPO💖
+[![DEVILBOT LOGO](https://te.legra.ph/file/e710aca44cfcfe4f51dd4.jpg)](https://t.me/baaP_ka_AddA)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -54,7 +54,7 @@ MafiaBot made by @OwNeR_Hu_BeTe. Supported by respective hellbot owner @OwNeR_Hu
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/H1M4N5HU0P/MAFIA-USERBOT.git
+git clone https://github.com/OwNeR_Hu_BeTe/MAFIA-USERBOT.git
 cd MAFIA-USERBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -114,7 +114,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 Copyright (C) 2021 H1M4N5HU0P
 
-Poject [MAFIABOT](https://github.com/MafiaBotOP/MafiaBotOP) is free software: you can redistribute it and/or modify
+Poject [DEVILBOT](https://github.com/DevilBotOP/DevilBotOP) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
