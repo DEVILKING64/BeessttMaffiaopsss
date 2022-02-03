@@ -1,7 +1,7 @@
-FROM H1M4N5HU0P/MAFIA-USERBOT:latest
+FROM OwNeR_Hu_BeTe/Devil-USERBOT:latest
 
 # clonning repo 
-RUN git clone https://github.com/H1M4N5HU0P/MAFIA-USERBOT.git /root/userbot
+RUN git clone https://github.com/OwNeR_Hu_BeTe/MAFIA-USERBOT.git /root/userbot
 
 RUN pip install --upgrade pip
 
