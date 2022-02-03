@@ -43,7 +43,7 @@ DevilBot made by @OwNeR_Hu_BeTe. Supported by respective hellbot owner @OwNeR_Hu
 <details>
 
   <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
+<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 king bot 💥</a></h2>
  One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 </details>
@@ -112,7 +112,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 OwNeR_Hu_BeTe
 
 Poject [DEVILBOT](https://github.com/DevilBotOP/DevilBotOP) is free software: you can redistribute it and/or modify
 
